@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Profile</title>
-    <link>https://zachary-ww.github.io/</link>
+    <link>https://zachary-ww.github.io/es/</link>
     <description>Recent content on Hugo Profile</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="https://zachary-ww.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>es</language>
+    <atom:link href="https://zachary-ww.github.io/es/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
