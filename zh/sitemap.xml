@@ -2,114 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/zh/categories/</loc>
+    <loc>https://zachary-ww.github.io/zh/categories/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/categories/"
+                href="https://zachary-ww.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/categories/"
+                href="https://zachary-ww.github.io/zh/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/posts/</loc>
+    <loc>https://zachary-ww.github.io/zh/posts/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/posts/"
+                href="https://zachary-ww.github.io/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/posts/"
+                href="https://zachary-ww.github.io/zh/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/tags/</loc>
+    <loc>https://zachary-ww.github.io/zh/tags/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/tags/"
+                href="https://zachary-ww.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/tags/"
+                href="https://zachary-ww.github.io/zh/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/</loc>
+    <loc>https://zachary-ww.github.io/zh/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/"
+                href="https://zachary-ww.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/"
+                href="https://zachary-ww.github.io/zh/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/tags/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://zachary-ww.github.io/zh/tags/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/tags/%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://zachary-ww.github.io/zh/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/categories/%E4%B8%AA%E4%BA%BA/</loc>
+    <loc>https://zachary-ww.github.io/zh/categories/%E4%B8%AA%E4%BA%BA/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/zh/posts/welcome/</loc>
+    <loc>https://zachary-ww.github.io/zh/posts/welcome/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/posts/welcome/"
+                href="https://zachary-ww.github.io/posts/welcome/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/posts/welcome/"
+                href="https://zachary-ww.github.io/zh/posts/welcome/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/series/</loc>
+    <loc>https://zachary-ww.github.io/zh/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/series/"
+                href="https://zachary-ww.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/series/"
+                href="https://zachary-ww.github.io/zh/series/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/archives/</loc>
+    <loc>https://zachary-ww.github.io/zh/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/archives/"
+                href="https://zachary-ww.github.io/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/archives/"
+                href="https://zachary-ww.github.io/zh/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/search/</loc>
+    <loc>https://zachary-ww.github.io/zh/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/search/"
+                href="https://zachary-ww.github.io/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/search/"
+                href="https://zachary-ww.github.io/zh/search/"
                 />
   </url>
 </urlset>
