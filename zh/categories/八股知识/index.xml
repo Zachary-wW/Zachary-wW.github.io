@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Zachary W 博客</title>
-    <link>https://zachary-ww.github.io/zh/</link>
-    <description>Recent content on Zachary W 博客</description>
+    <title>八股知识 on Zachary W 博客</title>
+    <link>https://zachary-ww.github.io/zh/categories/%E5%85%AB%E8%82%A1%E7%9F%A5%E8%AF%86/</link>
+    <description>Recent content in 八股知识 on Zachary W 博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate>
-    <atom:link href="https://zachary-ww.github.io/zh/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>欢迎</title>
-      <link>https://zachary-ww.github.io/zh/posts/welcome/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
-      <guid>https://zachary-ww.github.io/zh/posts/welcome/</guid>
-      <description>Zachary 的 PaperMod 博客第一篇记录。</description>
-    </item>
+    <lastBuildDate>Sat, 12 Oct 2024 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zachary-ww.github.io/zh/categories/%E5%85%AB%E8%82%A1%E7%9F%A5%E8%AF%86/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C&#43;&#43; 八股知识整理（一）：语法、面向对象、内存与 STL</title>
       <link>https://zachary-ww.github.io/zh/posts/cpp-bagu-knowledge/</link>

@@ -15,5 +15,12 @@
       <guid>https://zachary-ww.github.io/zh/posts/welcome/</guid>
       <description>Zachary 的 PaperMod 博客第一篇记录。</description>
     </item>
+    <item>
+      <title>C&#43;&#43; 八股知识整理（一）：语法、面向对象、内存与 STL</title>
+      <link>https://zachary-ww.github.io/zh/posts/cpp-bagu-knowledge/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0800</pubDate>
+      <guid>https://zachary-ww.github.io/zh/posts/cpp-bagu-knowledge/</guid>
+      <description>一份 C++ 八股知识整理，覆盖语法基础、面向对象、C++11 特性、内存管理与 STL 容器等常见面试知识点。</description>
+    </item>
   </channel>
 </rss>
