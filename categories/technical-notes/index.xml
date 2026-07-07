@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technical Notes on Zachary WEI Blog</title>
+    <link>https://zachary-ww.github.io/categories/technical-notes/</link>
+    <description>Recent content in Technical Notes on Zachary WEI Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zachary-ww.github.io/categories/technical-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Looping: From Prompting Agents to Designing Loops</title>
+      <link>https://zachary-ww.github.io/posts/looping/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      <guid>https://zachary-ww.github.io/posts/looping/</guid>
+      <description>A note on loop engineering: how it relates to harness engineering, what a loop consists of, how different loop types differ, and what to watch around verification, budgets, and system context.</description>
+    </item>
+  </channel>
+</rss>

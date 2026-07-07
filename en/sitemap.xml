@@ -2,11 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zachary-ww.github.io/tags/blog/</loc>
-    <lastmod>2026-07-06T00:00:00+08:00</lastmod>
+    <loc>https://zachary-ww.github.io/tags/ai-agent/</loc>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://zachary-ww.github.io/zh/tags/ai-agent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://zachary-ww.github.io/tags/ai-agent/"
+                />
   </url><url>
     <loc>https://zachary-ww.github.io/categories/</loc>
-    <lastmod>2026-07-06T00:00:00+08:00</lastmod>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -18,14 +28,60 @@
                 href="https://zachary-ww.github.io/categories/"
                 />
   </url><url>
-    <loc>https://zachary-ww.github.io/tags/notes/</loc>
-    <lastmod>2026-07-06T00:00:00+08:00</lastmod>
+    <loc>https://zachary-ww.github.io/tags/claude-code/</loc>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://zachary-ww.github.io/zh/tags/claude-code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://zachary-ww.github.io/tags/claude-code/"
+                />
   </url><url>
-    <loc>https://zachary-ww.github.io/categories/personal/</loc>
-    <lastmod>2026-07-06T00:00:00+08:00</lastmod>
+    <loc>https://zachary-ww.github.io/tags/codex/</loc>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://zachary-ww.github.io/zh/tags/codex/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://zachary-ww.github.io/tags/codex/"
+                />
+  </url><url>
+    <loc>https://zachary-ww.github.io/tags/loop-engineering/</loc>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://zachary-ww.github.io/zh/tags/loop-engineering/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://zachary-ww.github.io/tags/loop-engineering/"
+                />
+  </url><url>
+    <loc>https://zachary-ww.github.io/posts/looping/</loc>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://zachary-ww.github.io/zh/posts/looping/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://zachary-ww.github.io/posts/looping/"
+                />
   </url><url>
     <loc>https://zachary-ww.github.io/posts/</loc>
-    <lastmod>2026-07-06T00:00:00+08:00</lastmod>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -38,7 +94,7 @@
                 />
   </url><url>
     <loc>https://zachary-ww.github.io/tags/</loc>
-    <lastmod>2026-07-06T00:00:00+08:00</lastmod>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -50,21 +106,11 @@
                 href="https://zachary-ww.github.io/tags/"
                 />
   </url><url>
-    <loc>https://zachary-ww.github.io/posts/welcome/</loc>
-    <lastmod>2026-07-06T00:00:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://zachary-ww.github.io/zh/posts/welcome/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://zachary-ww.github.io/posts/welcome/"
-                />
+    <loc>https://zachary-ww.github.io/categories/technical-notes/</loc>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://zachary-ww.github.io/</loc>
-    <lastmod>2026-07-06T00:00:00+08:00</lastmod>
+    <lastmod>2026-07-07T00:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -106,6 +152,9 @@
     <lastmod>2024-10-12T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://zachary-ww.github.io/categories/interview-notes/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zachary-ww.github.io/tags/notes/</loc>
     <lastmod>2024-10-12T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://zachary-ww.github.io/archives/</loc>

@@ -6,14 +6,14 @@
     <description>Recent content in Posts on Zachary WEI 博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://zachary-ww.github.io/zh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>欢迎</title>
-      <link>https://zachary-ww.github.io/zh/posts/welcome/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
-      <guid>https://zachary-ww.github.io/zh/posts/welcome/</guid>
-      <description>Zachary 的 PaperMod 博客第一篇记录。</description>
+      <title>Looping：从提示 Agent 到设计循环</title>
+      <link>https://zachary-ww.github.io/zh/posts/looping/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      <guid>https://zachary-ww.github.io/zh/posts/looping/</guid>
+      <description>一篇关于 loop engineering 的笔记，记录 loop 与 harness 的关系、loop 的组成、几类 loop 的差异，以及复杂 loop 在验证、预算和系统环境上的注意事项。</description>
     </item>
     <item>
       <title>C&#43;&#43; 八股知识整理（一）：语法、面向对象、内存与 STL</title>

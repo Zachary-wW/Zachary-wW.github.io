@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Claude Code on Zachary WEI 博客</title>
+    <link>https://zachary-ww.github.io/zh/tags/claude-code/</link>
+    <description>Recent content in Claude Code on Zachary WEI 博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://zachary-ww.github.io/zh/tags/claude-code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Looping：从提示 Agent 到设计循环</title>
+      <link>https://zachary-ww.github.io/zh/posts/looping/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      <guid>https://zachary-ww.github.io/zh/posts/looping/</guid>
+      <description>一篇关于 loop engineering 的笔记，记录 loop 与 harness 的关系、loop 的组成、几类 loop 的差异，以及复杂 loop 在验证、预算和系统环境上的注意事项。</description>
+    </item>
+  </channel>
+</rss>

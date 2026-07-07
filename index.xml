@@ -6,14 +6,14 @@
     <description>Recent content on Zachary WEI Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://zachary-ww.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Welcome</title>
-      <link>https://zachary-ww.github.io/posts/welcome/</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
-      <guid>https://zachary-ww.github.io/posts/welcome/</guid>
-      <description>A first note for Zachary&amp;rsquo;s rebuilt PaperMod blog.</description>
+      <title>Looping: From Prompting Agents to Designing Loops</title>
+      <link>https://zachary-ww.github.io/posts/looping/</link>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0800</pubDate>
+      <guid>https://zachary-ww.github.io/posts/looping/</guid>
+      <description>A note on loop engineering: how it relates to harness engineering, what a loop consists of, how different loop types differ, and what to watch around verification, budgets, and system context.</description>
     </item>
     <item>
       <title>C&#43;&#43; Interview Notes (Part 1): Syntax, OOP, Memory, and STL</title>
