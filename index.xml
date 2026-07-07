@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Zachary W Blog</title>
+    <title>Zachary WEI Blog</title>
     <link>https://zachary-ww.github.io/</link>
-    <description>Recent content on Zachary W Blog</description>
+    <description>Recent content on Zachary WEI Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
       <guid>https://zachary-ww.github.io/posts/welcome/</guid>
       <description>A first note for Zachary&amp;rsquo;s rebuilt PaperMod blog.</description>
+    </item>
+    <item>
+      <title>C&#43;&#43; Interview Notes (Part 1): Syntax, OOP, Memory, and STL</title>
+      <link>https://zachary-ww.github.io/posts/cpp-bagu-knowledge/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0800</pubDate>
+      <guid>https://zachary-ww.github.io/posts/cpp-bagu-knowledge/</guid>
+      <description>This C++ interview notes article is currently available in Chinese. The English version has not been translated yet.</description>
     </item>
   </channel>
 </rss>

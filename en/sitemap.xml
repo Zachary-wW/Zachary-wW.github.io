@@ -24,6 +24,19 @@
     <loc>https://zachary-ww.github.io/categories/personal/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
   </url><url>
+    <loc>https://zachary-ww.github.io/posts/</loc>
+    <lastmod>2026-07-06T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://zachary-ww.github.io/zh/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://zachary-ww.github.io/posts/"
+                />
+  </url><url>
     <loc>https://zachary-ww.github.io/tags/</loc>
     <lastmod>2026-07-06T00:00:00+08:00</lastmod>
     <xhtml:link
@@ -62,6 +75,38 @@
                 hreflang="en-us"
                 href="https://zachary-ww.github.io/"
                 />
+  </url><url>
+    <loc>https://zachary-ww.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://zachary-ww.github.io/zh/tags/c&#43;&#43;/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://zachary-ww.github.io/tags/c&#43;&#43;/"
+                />
+  </url><url>
+    <loc>https://zachary-ww.github.io/posts/cpp-bagu-knowledge/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://zachary-ww.github.io/zh/posts/cpp-bagu-knowledge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://zachary-ww.github.io/posts/cpp-bagu-knowledge/"
+                />
+  </url><url>
+    <loc>https://zachary-ww.github.io/tags/interview/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://zachary-ww.github.io/categories/interview-notes/</loc>
+    <lastmod>2024-10-12T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://zachary-ww.github.io/archives/</loc>
     <xhtml:link

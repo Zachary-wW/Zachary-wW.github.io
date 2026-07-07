@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on Zachary W Blog</title>
+    <title>Categories on Zachary WEI Blog</title>
     <link>https://zachary-ww.github.io/categories/</link>
-    <description>Recent content in Categories on Zachary W Blog</description>
+    <description>Recent content in Categories on Zachary WEI Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0800</lastBuildDate>
@@ -13,6 +13,13 @@
       <link>https://zachary-ww.github.io/categories/personal/</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0800</pubDate>
       <guid>https://zachary-ww.github.io/categories/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Interview Notes</title>
+      <link>https://zachary-ww.github.io/categories/interview-notes/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0800</pubDate>
+      <guid>https://zachary-ww.github.io/categories/interview-notes/</guid>
       <description></description>
     </item>
   </channel>
